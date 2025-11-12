@@ -1,5 +1,7 @@
 # EXPERIMENT 06: NAMED ENTITY RECOGNITION
+**NAME:AMMINENI MOKSHASREE**
 
+**REG NO:2305001001**
 ## AIM:
 To develop an LSTM-based model for recognizing the named entities in the text.
 ##  PROBLEM STATEMENT AND DATASET:
@@ -133,10 +135,10 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ## OUTPUT:
 ### TRAINING LOSS, VALIDATION LOSS VS ITERATION PLOT:
-![image](https://github.com/Rithigasri/Named-entity-recognition/assets/93427256/2b5fe994-fb55-451e-aac5-f78e8bf3e6ec)
-![image](https://github.com/Rithigasri/Named-entity-recognition/assets/93427256/1fe0ac6e-2f00-4696-bba7-2a71fc968bc6)
-### SAMPLE TEXT PREDICTION:
-![image](https://github.com/Rithigasri/Named-entity-recognition/assets/93427256/78d70f04-25de-4719-b2f7-68298d64306a)
+<img width="731" height="510" alt="image" src="https://github.com/user-attachments/assets/f3002b97-d379-4402-a7d0-3c78284a0dc2" />
+<img width="698" height="506" alt="image" src="https://github.com/user-attachments/assets/b31213a2-ab0d-462d-9c2d-8c585d917760" />
+
+
 
 
 ## RESULT:
